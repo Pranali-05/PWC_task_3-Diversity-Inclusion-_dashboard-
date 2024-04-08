@@ -8,6 +8,7 @@ The Diversity Ratio shows how diverse the workforce is by comparing the number o
 By using this dashboard, the organization can make smarter decisions based on data, understand where they're doing well and where they need to improve in terms of diversity and inclusion. This helps them keep getting better and better at making sure everyone feels valued and included in the workplace.
 
 Key Performance Indicators (KPIs):
+
 KPIs are measurable values that organizations use to track and evaluate their progress towards achieving specific business objectives. They are used to measure performance over time and allow organizations to make data-driven decisions based on actual results.
 
 
